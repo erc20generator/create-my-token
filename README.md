@@ -8,7 +8,7 @@ Below we demonstrate the creation of BEP20 Token in Chrome browser
 <br>
 <br>
 
-<h4 id="Open-a-website-https://createmytoken.net/"> Open a website <a href="https://createmytoken.net/" target="_blank">https://createmytoken.net/</a></h4>
+<h4 id="Open-a-website-https://createmytoken.net/"> Open a website <a href="https://www.createmytoken.net/" target="_blank">https://www.createmytoken.net/</a></h4>
 <br>
 <br>
 
